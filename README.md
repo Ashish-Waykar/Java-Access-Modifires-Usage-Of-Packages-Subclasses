@@ -29,3 +29,5 @@ Here Is Table To Learn These
 
 ![image](https://user-images.githubusercontent.com/81794601/159320087-9564cb01-9936-4d99-bcaf-882e481ab67a.png)
 
+
+Java Compititive Programing In These Folder You WillFound Basic Mathmatical Programs That Exploid Your Mind &  Feels You Proud If You Are Able To Solve Them...
